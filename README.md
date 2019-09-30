@@ -1,5 +1,5 @@
 # Google-Image-Scraper
-Python code to download all the google images of the given query 
+Python code to download the google images of the given query 
 
 
 <h4> To run the code, type the following command in the terminal / command-prompt :- </h4>
