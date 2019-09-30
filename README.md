@@ -7,4 +7,3 @@ Python code to download all the google images of the given query
 ```{r, engine='bash', command}
 $ python3 image_scraper.py -s "search_query" -d "file_path" -n "no._of_images"
 
-
